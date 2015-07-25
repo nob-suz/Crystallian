@@ -1,4 +1,5 @@
 0.06 add reddit community
+
 reddit: [Crystal Fast as C, slick as Ruby!]
 (https://www.reddit.com/r/ruby/comments/3ek2rc/crystal_fast_as_c_slick_as_ruby/)
 
