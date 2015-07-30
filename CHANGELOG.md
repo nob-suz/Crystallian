@@ -1,3 +1,6 @@
+0.07 add US community
+[Crystal Lang SF](http://www.meetup.com/Crystal-Lang-SF/events/224241751/)
+
 0.06 add reddit community
 
 reddit: [Crystal Fast as C, slick as Ruby!]
