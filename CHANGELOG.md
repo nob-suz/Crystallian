@@ -1,3 +1,6 @@
+0.08 add 2015/7 [7 Slides at Tokyo Gotanda Crystal-jp study meeting #1 ]
+(http://crystal.connpass.com/event/17496/presentation/)
+
 0.07 add US community
 [Crystal Lang SF](http://www.meetup.com/Crystal-Lang-SF/events/224241751/)
 
