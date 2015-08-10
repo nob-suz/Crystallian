@@ -1,3 +1,6 @@
+
+0.09 add 2015/8　[This is the first article that describes the experience of porting a Ruby library to Crystal by copy/paste.   Japan:Qiita:  で、Crystal で Ruby のコードってどんだけそのまま動くの？](http://qiita.com/5t111111/items/2d7133ef8dfac2e53f25)
+
 0.08 add 2015/7 [7 Slides at Tokyo Gotanda Crystal-jp study meeting #1 ]
 (http://crystal.connpass.com/event/17496/presentation/)
 
