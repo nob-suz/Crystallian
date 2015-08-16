@@ -1,4 +1,9 @@
 
+0.11 add 2015/7 [eurocamp: Crystal: The programming language by LUIS FERREIRA](http://2015.eurucamp.org/speakers/#luis-ferreira)
+
+[Slides by LUIS FERREIRA](https://www.youtube.com/watch?v=aEDnRjor21Y)
+
+
 0.10 add Editor EMACS support: [emacs-crystal-mode](https://github.com/jpellerin/emacs-crystal-mode)
 
 
