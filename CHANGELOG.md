@@ -1,5 +1,7 @@
 
 0.12 add 2015/8
+[Lobsters : Crystal Language](https://lobste.rs/s/4867h0/crystal_language/comments/bxnocj)
+
 [ Hello, Crystal: Here’s an anagram-finding program in Ruby & Crystal  by Avdi Grimm]
 (http://devblog.avdi.org/2015/08/20/hello-crystal/)
 
