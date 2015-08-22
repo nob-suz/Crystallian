@@ -1,4 +1,9 @@
 
+0.12 add 2015/8
+[ Hello, Crystal: Here’s an anagram-finding program in Ruby & Crystal  by Avdi Grimm]
+(http://devblog.avdi.org/2015/08/20/hello-crystal/)
+
+
 0.11 add 2015/7 [eurocamp: Crystal: The programming language by LUIS FERREIRA](http://2015.eurucamp.org/speakers/#luis-ferreira)
 
 [Slides by LUIS FERREIRA](https://www.youtube.com/watch?v=aEDnRjor21Y)
