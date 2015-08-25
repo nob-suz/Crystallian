@@ -1,3 +1,5 @@
+0.13 add 2015/8 [CSDN home page> Software development	
+Crystal: a programming language similar to Ruby syntax](http://prog3.com/article/2015-08-14/2825458-Crystal)
 
 0.12 add 2015/8
 [Lobsters : Crystal Language](https://lobste.rs/s/4867h0/crystal_language/comments/bxnocj)
