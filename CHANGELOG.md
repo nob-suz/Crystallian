@@ -1,4 +1,9 @@
-0.13 add 2015/8 [CSDN home page> Software development	
+0.13 add 2015/8 
+[Crystal: by Masahiro Tomita](http://sssslide.com/www.slideshare.net/tmtm/crystal-51973486)
+
+[稀土掘金：Crystal：型如Ruby，速如C](http://gold.xitu.io/entry/55d2fb5e60b22b8ded2195c8)
+
+[CSDN home page> Software development	
 Crystal: a programming language similar to Ruby syntax](http://prog3.com/article/2015-08-14/2825458-Crystal)
 
 0.12 add 2015/8
