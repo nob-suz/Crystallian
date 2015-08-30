@@ -1,3 +1,6 @@
+0.14 add 2015/8 [A collection of awesome FinalFantasy-ish libraries, tools, frameworks and software.]
+(https://github.com/r7kamura/awesome-fantasy)
+
 0.13 add 2015/8 
 [Crystal: by Masahiro Tomita](http://sssslide.com/www.slideshare.net/tmtm/crystal-51973486)
 
