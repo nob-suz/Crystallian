@@ -1,3 +1,6 @@
+0.15 add Japanese (Official) Documentation Project http://gh-pages.crystal.pine.moe/docs/
+
+
 0.14 add 2015/8 [A collection of awesome FinalFantasy-ish libraries, tools, frameworks and software.]
 (https://github.com/r7kamura/awesome-fantasy)
 
