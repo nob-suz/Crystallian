@@ -1,3 +1,6 @@
+0.16 add [atom-crystal](https://github.com/atom-crystal)
+[September Meetup - Crystal:Denver.rb](http://www.meetup.com/denver-rb)[@Denver.rb](https://twitter.com/denver_rb)
+
 0.15 add Japanese (Official) Documentation Project http://gh-pages.crystal.pine.moe/docs/
 
 
