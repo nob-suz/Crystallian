@@ -1,3 +1,14 @@
+0.18 add 2015/09 motion-express.com/blog
+
+ [Why Crystal programming language?](http://motion-express.com/blog/why-use-crystal-lang)
+
+ [Basic Routing in Crystal HTTP Server](http://motion-express.com/blog/basic-routing-in-crystal-http-server)
+
+ [Interactive Crystal in Terminal using fswatch](http://motion-express.com/blog/interactive-crystal-in-terminal-using-fswatch)
+
+ [Is it Worth to Build a Rails Clone in Crystal?](http://motion-express.com/blog/rails-clone-in-crystal-or-not)
+
+
 0.17 add 2015/7 [Crystal Lang - Ruby SG Meetup](https://www.youtube.com/watch?v=YE3GkCB3t_0)
 
 0.16 add [atom-crystal](https://github.com/atom-crystal)
